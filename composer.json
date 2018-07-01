@@ -1,7 +1,7 @@
 {
     "name": "alive2212/laravel-reflection-helper",
     "type": "library",
-    "description": ":package_description",
+    "description": "This is Laravel Reflection Helper",
     "keywords": [
         "Alive2212",
         "LaravelReflectionHelper"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Babak Nodoust",
+            "email": "alive2212@yahoo.com",
+            "homepage": "https://github.com/Alive2212",
             "role": "Developer"
         }
     ],
